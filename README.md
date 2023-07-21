@@ -1,1 +1,1 @@
-# boj.kr_ps_by_sxu9
+# ps_by_sxu9
